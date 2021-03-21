@@ -1,9 +1,12 @@
-### Hi there 👋 I'm Pranav!
+### Hey I'm [Pranav!](https://cyblogerz.github.io) 🚀
+
+🎓 I am a **First** year student at **Vellore Institute of Technology, Bhopal** pursuing my Bachelors in Computer Science Engineering. </br>
+😋 I am passionate about **Machine learning**. Currently learning **Everything**. </br>
 
 
 
 
-- 🔭 I’m a first year student at Vellore Institute of Technology, Bhopal pursuing my Bachelors in Computer Science Engineering.
-- 🌱 I’m a beginner in programming and I am passionate about Machine Learning.
-- 🕴I am a Python enthusiast, currently a beginner
+### My Stats 👨🏻‍💻
+<img src="https://github-readme-stats.vercel.app/api?username=cyblogerz&layout=compact&hide_title=true&include_all_commits=true" alt="cyblogerz" />
 
+#### Find me on <a href="https://www.twitter.com/cyblogerz">Twitter</a> and <a href="https://www.linkedin.com/in/pranav">LinkedIn</a>. Feel free to mail me <a href="mailto:pranavajay2002@gmail.com">here</a>.
