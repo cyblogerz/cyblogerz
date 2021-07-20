@@ -9,4 +9,4 @@
 ### My Stats 👨🏻‍💻
 <img src="https://github-readme-stats.vercel.app/api?username=cyblogerz&layout=compact&hide_title=true&include_all_commits=true" alt="cyblogerz" />
 
-#### Find me on <a href="https://www.twitter.com/cyblogerz">Twitter</a> and <a href="https://www.linkedin.com/in/pranav">LinkedIn</a>. Feel free to mail me <a href="mailto:pranavajay2002@gmail.com">here</a>.
+#### Find me on <a href="https://www.twitter.com/cyblogerz">Twitter</a> and <a href="https://www.linkedin.com/in/pranavajay">LinkedIn</a>. Feel free to mail me <a href="mailto:pranavajay2002@gmail.com">here</a>.
