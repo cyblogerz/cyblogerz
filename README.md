@@ -1,7 +1,7 @@
 ### Hey I'm [Pranav!](https://cyblogerz.github.io) 🚀
 
 🎓 I am a **First** year student at **Vellore Institute of Technology, Bhopal** pursuing my Bachelors in Computer Science Engineering. </br>
-😋 I am passionate about **Machine learning**. Currently learning **Everything**. </br>
+😋 I am passionate about **Machine learning** and I am a **Flutter** developer. </br>
 
 
 
