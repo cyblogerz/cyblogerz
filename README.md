@@ -39,7 +39,7 @@ Python Developer  || Aspiring Web Developer || Flutter Developer || Machine lear
 
 ## **Github Streak:**
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=cyblogerz8&line_height=40&theme=dark">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=cyblogerz&line_height=40&theme=dark">
 </p>
 
 ---
@@ -48,8 +48,8 @@ Python Developer  || Aspiring Web Developer || Flutter Developer || Machine lear
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=cyblogerz8&hide=stars&show_icons=true&line_height=48&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyblogerz8&count_private=true&line_height=40&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyblogerz&hide=stars&show_icons=true&line_height=48&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyblogerz&count_private=true&line_height=40&theme=dark">
 
 </p>
 
