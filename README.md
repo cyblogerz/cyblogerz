@@ -1,8 +1,4 @@
 <h1 align="center">Hi there 👋 I am  Pranav Ajay <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me//count.svg" />
-</p>
 
 
 ## **About Me:**
