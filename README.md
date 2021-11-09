@@ -11,7 +11,7 @@ Python Developer  || Aspiring Web Developer || Flutter Developer || Machine lear
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
 <code><img height="40" src="https://logowik.com/content/uploads/images/flutter5786.jpg"></code>
 <code><img height="40" src="https://image.pngaaa.com/400/23400-middle.png"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+<code><img height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Ffree%2Ffirebase.html&psig=AOvVaw3RDmZv2rxj88_I5BgX4TuS&ust=1636566058108000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjC9OXpi_QCFQAAAAAdAAAAABAD"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
