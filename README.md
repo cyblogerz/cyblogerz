@@ -13,7 +13,6 @@ Python Developer  || Aspiring Web Developer || Flutter Developer || Machine lear
 <code><img height="40" src="https://image.pngaaa.com/400/23400-middle.png"></code>
 <code><img height="40" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.pngv/"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
