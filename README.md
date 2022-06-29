@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋 , I am  Pranav Ajay <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
 
 
-## **About Me:**
-Python Developer  || FullStack Web Developer || Flutter Developer || Machine learning enthusiast
+<p align="center">
+  <a href="https://github.com/cyblogerz"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;AI%20ML%2FUX%20Enthusiast;Flutter%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
 ## **TechStack:**
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
