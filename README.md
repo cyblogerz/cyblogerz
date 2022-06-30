@@ -6,7 +6,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/cyblogerz"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;AI%20ML%20Enthusiast;Flutter%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30"></a>
+  <a href="https://github.com/cyblogerz"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;AI%20ML%20Enthusiast;Flutter%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=100%&height=45&color=f75c7e&vCenter=true&size=30"></a>
 </p>
 
 
