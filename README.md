@@ -39,6 +39,9 @@
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
