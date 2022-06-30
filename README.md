@@ -40,6 +40,82 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 227 Contributions in the Year 2022
+ > 
+> 📦 161.2 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 48 Public Repositories 
+ > 
+> 🔑 30 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    134 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.16% 
+🌆 Daytime    294 commits    ██████████░░░░░░░░░░░░░░░   39.84% 
+🌃 Evening    270 commits    █████████░░░░░░░░░░░░░░░░   36.59% 
+🌙 Night      40 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.42%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       139 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.83% 
+Tuesday      119 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.12% 
+Wednesday    74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.03% 
+Thursday     97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
+Friday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
+Saturday     101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
+Sunday       122 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.53%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   23.73% 
+Dart                     13 repos            █████░░░░░░░░░░░░░░░░░░░░   22.03% 
+Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.64% 
+HTML                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
+C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.47%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/cyblogerz/cyblogerz/main/charts/bar_graph.png) 
+
+
+ Last Updated on 30/06/2022 10:46:52 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 Github stats
