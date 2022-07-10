@@ -85,16 +85,16 @@ Sunday       118 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-wallbay                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -115,7 +115,7 @@ C++                      5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cyblogerz/cyblogerz/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/07/2022 18:45:34 UTC
+ Last Updated on 10/07/2022 18:45:24 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 Github stats
