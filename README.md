@@ -42,7 +42,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -85,20 +85,16 @@ Sunday       123 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     27 mins             █████████████░░░░░░░░░░░░   54.17% 
-Python                   22 mins             ███████████░░░░░░░░░░░░░░   44.96% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-locus                    34 mins             ███████████████████░░░░░░   79.44% 
-ML_study                 8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.56% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    38 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -119,7 +115,7 @@ C++                      7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cyblogerz/cyblogerz/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2022 18:54:18 UTC
+ Last Updated on 20/08/2022 18:48:40 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 Github stats
