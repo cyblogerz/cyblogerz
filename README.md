@@ -42,7 +42,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -115,7 +115,7 @@ C++                      7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cyblogerz/cyblogerz/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/08/2022 18:50:37 UTC
+ Last Updated on 26/08/2022 18:49:56 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 Github stats
