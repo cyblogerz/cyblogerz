@@ -56,6 +56,48 @@
  > 
 > 🔑 33 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
+🌆 Daytime    286 commits    █████████░░░░░░░░░░░░░░░░   39.02% 
+🌃 Evening    289 commits    █████████░░░░░░░░░░░░░░░░   39.43% 
+🌙 Night      46 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.28%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       138 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.83% 
+Tuesday      101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.78% 
+Wednesday    74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.1% 
+Thursday     106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
+Friday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
+Saturday     110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.01% 
+Sunday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.92%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -73,7 +115,7 @@ C++                      7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cyblogerz/cyblogerz/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/09/2022 18:57:12 UTC
+ Last Updated on 27/09/2022 19:06:03 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 Github stats
