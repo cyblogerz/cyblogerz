@@ -40,7 +40,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -85,16 +85,16 @@ Sunday       102 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     2 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pokedex                  2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.0%
 
 ```
 
@@ -115,7 +115,7 @@ C++                      7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cyblogerz/cyblogerz/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/10/2022 18:53:48 UTC
+ Last Updated on 02/10/2022 18:55:00 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 Github stats
