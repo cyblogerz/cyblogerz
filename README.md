@@ -112,7 +112,6 @@ Java                     3 repos             █░░░░░░░░░░�
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ---
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Cyblogerz's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=cyblogerz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
  <h2 align="center">📫 Reach out to me on</h2>
