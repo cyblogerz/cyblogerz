@@ -42,7 +42,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My GitHub Data** 
 
@@ -120,7 +120,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cyblogerz/cyblogerz/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2023 18:36:31 UTC
+ Last Updated on 01/06/2023 18:37:14 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 Github stats
