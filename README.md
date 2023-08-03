@@ -55,7 +55,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2011%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -84,16 +84,20 @@ Sunday                   167 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     50 mins             ████████████████████████░   94.33 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+zippy_eats               19 mins             █████████░░░░░░░░░░░░░░░░   35.62 % 
+Corewave-app-task        17 mins             ████████░░░░░░░░░░░░░░░░░   32.81 % 
+places                   15 mins             ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+flutter_ref              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      53 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +113,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2023 18:36:03 UTC
+ Last Updated on 03/08/2023 18:36:06 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 Github stats
