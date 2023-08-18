@@ -84,16 +84,16 @@ Sunday                   167 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +109,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2023 18:36:34 UTC
+ Last Updated on 18/08/2023 18:36:35 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 Github stats
