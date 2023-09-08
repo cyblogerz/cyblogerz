@@ -84,18 +84,16 @@ Sunday                   167 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   14 mins             ████████████████████████░   97.82 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pranav_hospital          13 mins             ███████████████████████░░   92.92 % 
-mysite                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,7 +109,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2023 18:36:40 UTC
+ Last Updated on 08/09/2023 18:36:47 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 Github stats
