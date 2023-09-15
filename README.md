@@ -55,7 +55,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2020%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -84,16 +84,18 @@ Sunday                   167 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               8 mins              ███████████████░░░░░░░░░░   58.20 % 
+CSS                      6 mins              ██████████░░░░░░░░░░░░░░░   41.80 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cashflow                 10 mins             ██████████████████░░░░░░░   70.51 % 
+merasite                 4 mins              ███████░░░░░░░░░░░░░░░░░░   29.49 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +111,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2023 18:36:21 UTC
+ Last Updated on 15/09/2023 18:36:32 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 Github stats
