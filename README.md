@@ -57,28 +57,9 @@
 [![An image of @cyblogerz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyblogerz)](https://holopin.io/@cyblogerz)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2037%20mins-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                268 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-🌆 Daytime                497 commits         █████████░░░░░░░░░░░░░░░░   36.30 % 
-🌃 Evening                508 commits         █████████░░░░░░░░░░░░░░░░   37.11 % 
-🌙 Night                  96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   282 commits         █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-Tuesday                  184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Wednesday                146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Thursday                 207 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Friday                   166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Saturday                 199 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Sunday                   185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-```
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.8%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -119,7 +100,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2023 17:05:41 UTC
+ Last Updated on 28/09/2023 18:37:28 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 Github stats
