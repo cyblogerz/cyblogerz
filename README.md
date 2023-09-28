@@ -53,6 +53,8 @@
 </p>
 
 ---
+## Badges 🏆
+[![An image of @cyblogerz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyblogerz)](https://holopin.io/@cyblogerz)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2054%20mins-blue)
