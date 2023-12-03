@@ -57,7 +57,7 @@
 [![An image of @cyblogerz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyblogerz)](https://holopin.io/@cyblogerz)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.9%20million%20lines%20of%20code-blue)
 
@@ -67,7 +67,7 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               14 hrs 20 mins      ████████████████████░░░░░   78.79 % 
+TypeScript               14 hrs 20 mins      ████████████████████░░░░░   78.75 % 
 Python                   3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
 Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 Docker                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
@@ -77,9 +77,10 @@ Dart                     6 mins              ░░░░░░░░░░░�
 VS Code                  18 hrs 12 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-skai-frontend            14 hrs 26 mins      ████████████████████░░░░░   79.32 % 
+skai-frontend            14 hrs 26 mins      ████████████████████░░░░░   79.28 % 
 skai-backend-api         3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
 skai_companion           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+deepLearning             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
@@ -99,7 +100,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2023 18:36:50 UTC
+ Last Updated on 03/12/2023 18:37:09 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 Github stats
