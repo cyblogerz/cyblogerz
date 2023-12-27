@@ -57,7 +57,7 @@
 [![An image of @cyblogerz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyblogerz)](https://holopin.io/@cyblogerz)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-486%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.9%20million%20lines%20of%20code-blue)
 
@@ -67,16 +67,18 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   18 mins             █████████████████████████   100.00 % 
+Python                   2 hrs 12 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-unet                     18 mins             █████████████████████████   100.00 % 
+vit                      1 hr 26 mins        ████████████████░░░░░░░░░   65.34 % 
+main                     25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+unet                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +94,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/12/2023 18:36:38 UTC
+ Last Updated on 27/12/2023 18:36:29 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 Github stats
