@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-526%20hrs%2039%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.1%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -86,16 +86,16 @@ No Activity Tracked This Week
 
 ```text
 JavaScript               29 repos            █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-C++                      20 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+C++                      19 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Dart                     16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
 TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 
 
 
 
- Last Updated on 25/08/2024 18:39:57 UTC
+ Last Updated on 26/08/2024 18:43:01 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 Github stats
