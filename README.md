@@ -60,9 +60,7 @@
 [![An image of @cyblogerz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyblogerz)](https://holopin.io/@cyblogerz)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-526%20hrs%2039%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.8%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -85,17 +83,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-Dart                     20 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Python                   18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-TypeScript               12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Objective-C              2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Dart                     20 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Python                   18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+TypeScript               13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Objective-C              2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 
 
 
 
- Last Updated on 11/03/2025 18:48:31 UTC
+ Last Updated on 10/05/2025 18:47:00 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 Github stats
