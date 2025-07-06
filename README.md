@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-526%20hrs%2039%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.1%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -85,17 +85,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-Dart                     20 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Python                   18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-TypeScript               12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Objective-C              2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Dart                     19 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Python                   18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+TypeScript               12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Objective-C              2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 
 
 
 
- Last Updated on 03/07/2025 18:52:10 UTC
+ Last Updated on 06/07/2025 18:49:42 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 Github stats
